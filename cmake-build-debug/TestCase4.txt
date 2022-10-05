@@ -1,0 +1,11 @@
+Inventory Bottles 100
+Inventory Rattles 40
+Inventory Diapers 250
+
+Purchase Joe Diapers 1000
+Purchase Joe Diapers 0
+Purchase Joe Diapers -1
+
+Summarize
+Quit
+
